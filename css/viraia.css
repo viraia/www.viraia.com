@@ -1,15 +1,15 @@
 :root {
-  --viraia-color:#56aeb3;
-  --cover-text-color: #000;
-  --highlight: var(--viraia-color);
-  --sticky-menu-text-color: var(--viraia-color);
-  --section-dark-bg-color: var(--viraia-color);
+    --viraia-color: #148f77;
+    --cover-text-color: #000;
+    --highlight: var(--viraia-color);
+    --sticky-menu-text-color: var(--viraia-color);
+    --section-dark-bg-color: var(--viraia-color);
 }
 .post-holder.dark {
     background-color:var(--viraia-color);
 }
 .post-holder.dark .post-after {
-  border-top-color: var(--viraia-color);
+    border-top-color: var(--viraia-color);
 }
 /*:root {
   --cover-text-color: #37501a;
